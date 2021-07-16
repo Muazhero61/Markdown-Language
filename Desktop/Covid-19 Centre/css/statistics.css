@@ -1,0 +1,22 @@
+
+.main__Statistics{
+    display: flex;
+    background-color: rgb(46, 50, 53);
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2% 20% 5%;
+}
+
+.main__Statistics__Info{
+    color: azure;
+} 
+
+.main__Statistics__Header{
+    font-size: 30px;
+}
+
+.main__Statistics__Summary{
+    text-align: justify;
+    font-size: 20px;
+}

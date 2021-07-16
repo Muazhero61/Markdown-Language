@@ -1,0 +1,44 @@
+
+.main__Info__Body{
+    /* height: 90vh; */
+    background-image: url("../images/Covid-19-image.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 0 10% 0; */
+    padding: 10% 10% 10%;
+}
+
+.main__Info__Body__Header{
+    color: azure;
+    font-size: 60px;
+    text-align: center;
+}
+
+.main__Info__Body__Text{
+    color: azure;
+    font-size: 30px;
+    text-align: justify;
+}
+
+.main__Info__Footer{
+    background-color: rgb(46, 50, 53);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 10% 5%;
+}
+
+.main__Info__Foot__Header{
+    color: azure;
+    font-size: 30px;
+}
+
+.main__Info__Footer__Text{
+    color: azure;
+    text-align: justify;
+}
+

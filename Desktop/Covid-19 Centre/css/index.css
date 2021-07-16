@@ -1,0 +1,27 @@
+
+
+@import 'node_modules\bootstrap\dist\css\bootstrap.min.css';
+
+@import 'nav.css';
+
+@import 'main.css';
+
+@import 'maps.css';
+
+@import 'help.css';
+
+@import 'vaccine.css';
+
+@import 'statistics.css';
+
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+

@@ -1,0 +1,22 @@
+
+.main__Help{
+    display: flex;
+    background-color: rgb(46, 50, 53);
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2% 20% 5%;
+}
+
+.main__Help__Info{
+    color: azure;
+} 
+
+.main__Help__Header{
+    font-size: 30px;
+}
+
+.main__Help__Summary{
+    text-align: justify;
+    font-size: 20px;
+}

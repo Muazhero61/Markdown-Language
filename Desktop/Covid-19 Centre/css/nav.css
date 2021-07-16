@@ -1,0 +1,29 @@
+
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(235, 47, 47);
+    max-width:100%;
+    overflow: hidden;
+}
+
+.navMainList{
+    display: flex;
+}
+
+.navItemLink{
+    list-style-type: none;
+}
+
+
+.navText{
+    text-decoration: none;
+    font-size: 5ch;
+    color: rgb(238, 225, 225);
+    margin: 0 50px 0;
+}
+
+.navText:hover{
+    color: rgb(12, 9, 9);
+}
+
